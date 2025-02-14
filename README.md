@@ -85,5 +85,20 @@ gantt
 - 주 1회 정기 모임 + 주말 모각코
 - 모집 인원: 최대 16명
 
+## Acknowledgement 🙏
+
+OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+
+## About Pseudo Lab 👋🏼</h2>
+
+[Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
+
+<h2>Contributors 😃</h2>
+<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+</a>
+<br><br>
+
+
 ## License 🗞
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
