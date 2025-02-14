@@ -69,15 +69,16 @@ gantt
 - Communication: Discord
 - Version Control: GitHub
 - Documentation: GitHub Wiki
-- 주말 "모각코" 진행
-- 동료 피드백 문화
+- 주말 "모각코" 진행  
+- 매주 기술 블로그 1주일 1회 업로드 '필수'  
+- 
 
 ## 📈 성과 지표 (Achievement Metrics)
 **2025 주요 KPI**
 | 지표 | 목표치 | 현재 달성률 |
 |------|---------|-------------|
-| Agent 구현 프로젝트 | 3개 | 0% |
-| 기술 블로그 포스팅 | 12개 | 0% |
+| Agent 구현 프로젝트 | n 개 | 0% |
+| 기술 블로그 포스팅 | 160개 | 0% |
 
 ## 🌱 참여 안내 (How to Engage)
 - 모집 기간: 2025.02.15 - 02.22
