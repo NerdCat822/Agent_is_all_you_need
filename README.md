@@ -35,7 +35,7 @@ _"이론에서 프로덕션까지"_
 
 | 역할 | 이름 | 기술 스택 | 주요 관심 분야 |
 |------|------|------------|----------------|
-| **Project Manager** | Chanran Kim | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | Agent 아키텍처, 백엔드 개발 |
+| **Project Manager** | JaeHyun KIM| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | Agent 아키텍처, 백엔드 개발 |
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
