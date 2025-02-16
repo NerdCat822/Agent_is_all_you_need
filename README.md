@@ -15,10 +15,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88dd74dc-590d-4e9d-b3e0-4f87a032f4a3" alt="제목 없는 디자인 (2)">
+</p>
 
 > Agent 시대의 도전! 이론에서 프로덕션까지, 실전 Agent 개발 스터디에 오신 것을 환영합니다. 우리는 최신 Agent 기술을 탐구하고 실제 서비스를 구현하는 여정을 함께합니다.
 
-![제목 없는 디자인 (2)](https://github.com/user-attachments/assets/88dd74dc-590d-4e9d-b3e0-4f87a032f4a3)
 
 
 ## 🌟 Why This Study?
