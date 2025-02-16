@@ -141,10 +141,9 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/Agent_is_all_you_need/contributors">
-  <img src="https://github.com/jh941213" />
+<a href="https://github.com/jh941213">
+  <img src="https://github.com/jh941213.png" width="100" />
 </a>
-<br><br>
 
 
 ## License 🗞
