@@ -16,7 +16,7 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88dd74dc-590d-4e9d-b3e0-4f87a032f4a3" alt="제목 없는 디자인 (2)" style="width: 30%;">
+  <img src="https://github.com/user-attachments/assets/88dd74dc-590d-4e9d-b3e0-4f87a032f4a3" alt="제목 없는 디자인 (2)">
 </p>
 
 > Agent 시대의 도전! 이론에서 프로덕션까지, 실전 Agent 개발 스터디에 오신 것을 환영합니다. 우리는 최신 Agent 기술을 탐구하고 실제 서비스를 구현하는 여정을 함께합니다.
@@ -25,7 +25,7 @@
 
 ## 🌟 Why This Study?
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5066651c-af30-4f05-a6e7-fbf9d8221da6" alt="20241230501184">
+<img src="https://github.com/user-attachments/assets/5066651c-af30-4f05-a6e7-fbf9d8221da6" alt="20241230501184" width="300">
 </p>
 2025년은 'AI 에이전트'의 해로 주목받고 있습니다. 가트너의 예측에 따르면 2028년까지 일상 업무의 15%를 AI 에이전트가 독자적으로 결정할 것으로 전망되며, 이미 주요 기업들의 치열한 개발 경쟁이 시작되었습니다.
 🚀 급성장하는 AI 에이전트 시장
