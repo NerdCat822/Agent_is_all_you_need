@@ -142,7 +142,7 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 
 <h2>Contributors 😃</h2>
 <a href="https://github.com/Pseudo-Lab/Agent_is_all_you_need/contributors">
-  <img src="https://github.com/Pseudo-Lab/Agent_is_all_you_need" />
+  <img src="https://github.com/jh941213" />
 </a>
 <br><br>
 
