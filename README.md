@@ -20,7 +20,7 @@
 
 
 
-## 🌟 Why This Study?
+## 🌟 프로젝트 개요 (Project Overview)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5066651c-af30-4f05-a6e7-fbf9d8221da6" alt="20241230501184" width="300">
 </p>
@@ -40,13 +40,8 @@
   - 아마존 `아마존Q`
   - 마이크로소프트 `코파일럿 스튜디오`
 
-### 🔑 AI Agent의 핵심 가치
-```
-🧠 독자적 의사결정    🕒 24/7 풀타임 운영
-🎯 도메인 전문성      🚀 인간 능력 확장
-```
 
-## 📚 커리큘럼
+## 🎯 프로젝트 목표 (Project Vision)
 
 ### 이론 학습
 - 🛠️ **최신 프레임워크 마스터링**
@@ -76,6 +71,7 @@
   ```
 
 > **평소에 구현해보고 싶은게 없으셨나요? 같이 만들면서 성장해요 🌱**
+> 아래와 같은 프로젝트가 
 
 🔗 [MultiAgent Backend Repository](https://github.com/jh941213/multiagent_backend)
 
@@ -99,29 +95,39 @@ gantt
 
 ## 📅 주차별 활동 (Activity History)
 
+## 🛠️ 우리의 개발 문화 (Our Development Culture)
+```python
+class CollaborationFramework:
+    def __init__(self):
+        self.tools = {
+            'communication': 'Discord',
+            'version_control': 'GitHub Projects',
+            'ci/cd': 'GitHub Actions',
+            'docs': 'Github Wiki'
+        }
+    
+    def workflow(self):
+        return """주간 사이클:
+        1️⃣ 주말 "모각코" 진행 (선택) 
+        2️⃣ 매주 기술 블로그 1주일 1회 업로드 '필수' 
+        3️⃣ Creative Spark⚡️ 모두에게 창의력을 !"""
+```
+
 ## 일정 개요
 | 주차   | 날짜         | 내용                                         | 발표자 |
 |--------|------------|--------------------------------------------|--------|
 | 1주차  | 2025/03/09 | OT & 아이스브레이킹                        | -      |
 | 2주차  | 2025/03/16 | 팀 개편 및 주제 선정                        | 미정   |
 | 3주차  | 2025/03/23 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
-| 4주차  | 2025/03/30 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
+| 4주차  | 2025/03/30 | Magical Weeks 🧙 | 미정   |
 | 5주차  | 2025/04/06 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
 | 6주차  | 2025/04/13 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
 | 7주차  | 2025/04/20 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
-| 8주차  | 2025/04/27 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
+| 8주차  | 2025/04/27 | Magical Weeks 🧙  (with 빌더 루프탑 바베큐 🍖) | 미정   |
 | 9주차  | 2025/05/04 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
 | 10주차 | 2025/05/11 | Agent 관련 논문 발표 및 프로젝트 상황 공유  | 미정   |
 | 11주차 | 2025/05/18 | 프로젝트 최종 점검                          | 미정   |
 | 12주차 | 2025/05/25 | 최종 프로젝트 발표                          | 전원   |
-
-## 🛠️ 우리의 스터디 문화 (Our Study Culture)
-- Communication: Discord
-- Version Control: GitHub
-- Documentation: GitHub Wiki
-- 주말 "모각코" 진행 (선택) 
-- 매주 기술 블로그 1주일 1회 업로드 '필수'  
-- Creative Spark⚡️ 모두에게 창의력을 !
 
 ## 📈 성과 지표 (Achievement Metrics)
 **2025 주요 KPI**
@@ -131,10 +137,13 @@ gantt
 | 기술 블로그 포스팅 | 160개 | 0% |
 
 ## 🌱 참여 안내 (How to Engage)
-- 모집 기간: 2025.02.15 - 02.22
-- 스터디 기간: 12주
-- 주 1회 정기 모임 + 주말 모각코
-- 모집 인원: 최대 16명 (팀을 나눠서 진행합니다)
+**팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
+- 링크 (준비중)
+
+**누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
+2. Magical Week 중 행사에 참가
+3. Pseudo Lab 행사에서 만나기
 
 ## Acknowledgement 🙏
 
