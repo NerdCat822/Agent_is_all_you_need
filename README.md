@@ -28,7 +28,7 @@
 <br>  
 <br>  
 <h2 align="center">
-  <strong>🚨 대체당하기 싫다면 어서 합류하라! 🚨</strong>
+  <p>🚨 대체당하기 싫다면 어서 합류하라! 🚨</p>
 </h2>
 <br>  
 
@@ -71,7 +71,7 @@
   ```
 
 > **평소에 구현해보고 싶은게 없으셨나요? 같이 만들면서 성장해요 🌱**
-> 아래와 같은 프로젝트가 
+> 우리는 스터디가 끝났을때 아래와 같은 프로젝트를 개발 하고 공유합니다.
 
 🔗 [MultiAgent Backend Repository](https://github.com/jh941213/multiagent_backend)
 
