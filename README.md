@@ -72,7 +72,7 @@
 
 | 역할 | 이름 | 기술 스택 | 주요 관심 분야 |
 |------|------|------------|----------------|
-| **Project Manager** | JaeHyun KIM(https://github.com/jh941213/)| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | Agent 아키텍처, 백엔드 개발 |
+| **Project Manager** | [**JaeHyun KIM**](https://www.linkedin.com/in/kjh941213/)| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | Agent 아키텍처, 백엔드 개발 |
 | -|열정맨| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
 | -|긍정맨| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
 | -|성실맨| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
