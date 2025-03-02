@@ -80,6 +80,20 @@
 
 
 
+### **Project Manager: 김재현 (JaeHyun KIM)**
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="/api/placeholder/200/200" alt="김재현 프로필 사진" style="border-radius: 50%; max-width: 150px;" />
+    <!-- 사진이 준비되면 위 placeholder 이미지를 실제 이미지로 교체하시면 됩니다 -->
+  </div>
+  <div style="flex: 2;">
+    <p><strong>기술 스택:</strong> <img src="https://img.shields.io/badge/Python-Expert-3776AB" alt="Python Expert"/> <img src="https://img.shields.io/badge/FastAPI-009688" alt="FastAPI"/></p>
+    <p><strong>주요 관심 분야:</strong> Agent 아키텍처, 백엔드 개발</p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/jh941213/" target="_blank">github.com/jh941213</a></p>
+    <p><strong>소개:</strong> Agent 시스템 설계와 백엔드 개발에 전문성을 가진 프로젝트 매니저입니다. 팀을 이끌며 혁신적인 솔루션을 개발하는 데 열정을 쏟고 있습니다.</p>
+  </div>
+</div>
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
