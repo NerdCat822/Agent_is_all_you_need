@@ -71,7 +71,7 @@
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 | 이름 | 별명 | 소속 | 주요 경력 | 관심 영역 |
 |------|------|------|------------|----------|
-| [김재현](https://www.linkedin.com/in/kjh941213/) | 김덕배 | KT ds | - WIZnet(Chip) AI Engineer<br>- BGF 리테일 영업 | - 백엔드 개발<br>- 실제로 쓸 수 있는 에이전트 |
+| [김재현](https://www.linkedin.com/in/kjh941213/) | 김덕배 | KT ds | - WIZnet(Chip) AI Engineer | - 백엔드 개발<br>- 실제로 쓸 수 있는 에이전트 |
 | [이진모](https://www.linkedin.com/in/jinmo-lee-3b5115253) | Alex | NH투자증권 | - KB국민카드 ML Engineer | - 폭발적 효율성의 Agent<br>- Graph Neural Network |
 | [김현규](https://www.linkedin.com/in/hyeongyukim33) | NerdCat | NICE지니데이타 | - 피플즈리그 Researcher<br>- LIG넥스원 SW Engineer | - Multi-Agent, RAG<br>- LLM Serving<br>- Agent 상용화 |
 | [이수현](https://www.linkedin.com/in/수현-이-5931912bb) | 와플 | 대학원생 | - AItheNutrigene 일학습병행 | - 생성형 모델, LLM<br>- 음성인식 분야 |
