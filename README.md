@@ -137,7 +137,7 @@ class CollaborationFramework:
     def workflow(self):
         return """주간 사이클:
         1️⃣ 주말 "모각코" 진행 (선택) 
-        2️⃣ 매주 기술 블로그 1주일 1회 업로드 '필수' 
+        2️⃣ Self-Brading (나를 알립시다)
         3️⃣ Creative Spark⚡️ 모두에게 창의력을 !"""
 ```
 
@@ -146,7 +146,7 @@ class CollaborationFramework:
 | 지표 | 목표치 | 현재 달성률 |
 |------|---------|-------------|
 | Agent 구현 프로젝트 | n 개 | 0% |
-| 기술 블로그 포스팅 | 160개 | 0% |
+| 기술 블로그 포스팅 | 조정중| 0% |
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
