@@ -69,15 +69,29 @@
 
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
-
-| 역할 | 이름 |소속 | 기술 스택 | 주요 관심 분야 |
-|------|------|:--:|------------|----------------|
-| **Builder** | [**JaeHyun KIM**](https://www.linkedin.com/in/kjh941213/)|KT ds| ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | Agent 아키텍처, 백엔드 개발 |
-| -|열정맨| 소속 |  ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
-| -|긍정맨| 소속 |  ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
-| -|성실맨| 소속 |  ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
-| -|최고맨| 소속 |  ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) | -|
-
+| 이름 | 별명 | 소속 | 주요 경력 | 관심 영역 |
+|------|------|------|------------|----------|
+| [김재현](https://www.linkedin.com/in/kjh941213/) | 김덕배 | KT ds | - WIZnet(Chip) AI Engineer<br>- BGF 리테일 영업 | - 백엔드 개발<br>- 실제로 쓸 수 있는 에이전트 |
+| [이진모](https://www.linkedin.com/in/jinmo-lee-3b5115253) | Alex | NH투자증권 | - KB국민카드 ML Engineer | - 폭발적 효율성의 Agent<br>- Graph Neural Network |
+| [김현규](https://www.linkedin.com/in/hyeongyukim33) | NerdCat | NICE지니데이타 | - 피플즈리그 Researcher<br>- LIG넥스원 SW Engineer | - Multi-Agent, RAG<br>- LLM Serving<br>- Agent 상용화 |
+| [이수현](https://www.linkedin.com/in/수현-이-5931912bb) | 와플 | 대학원생 | - AItheNutrigene 일학습병행 | - 생성형 모델, LLM<br>- 음성인식 분야 |
+| [이윤아](https://www.linkedin.com/in/yoonah-l-b34536191/) | Lee | LVISKorea | - AI research engineer | - foundation model<br>- LLM 모델 |
+| [백소정](https://www.linkedin.com/in/sojeong-baek/) | Phoebe | MongoDB | - 메가존클라우드 Solutions Architect | - RAG 및 AI Agent<br>- 다양한 사례 구현 |
+| [박영웅](https://www.linkedin.com/in/youngwoong-park) | Hero | SKT | - AI Platform Manager | - Agent Readable Data 구축<br>- Workflow Orchestration<br>- API serving |
+| [김태한](https://www.linkedin.com/in/taehan-kim-080099322/) | Hank | 취업준비 | - 네이버 부스트캠프 AI Tech<br>- 3D Focus Researcher | - 일상에 도움되는 Agent<br>- Multi Agent 시스템 |
+| [이효정](https://www.linkedin.com/in/hyojung-lee-557890327/) | eehyo | MINDs and company | - AI Engineer Intern | - 실생활 접목 Agent<br>- NLP와 HCI |
+| [김다현](https://www.linkedin.com/jobs/?originalSubdomain=kr) | dh | 디지털트윈 회사 | - 의료 회사 AI Research | - 업무 자동화 Agent<br>- 논문 작성 보조 Agent |
+| [박상우](https://www.linkedin.com/in/bakch92) | 상쪽이 | KT| - SK Shieldus 모의해킹<br>- 한국통신인터넷기술 | - 금융 데이터 투자 예측 Agent<br>- Multi Agent 구축 |
+| [이재환](https://www.linkedin.com/in/jaehwlee/) | Jae | 컴투스 | - 솔트룩스, Audio Research | - 업무 생산성 향상<br>- 클린 코드 |
+| [김승혁](https://www.linkedin.com/in/승혁-김-9092b5306) | - | 자기계발 중 | - 마음AI | - LLM, Agent, RAG, Prompt<br>- A부터 Z까지 혼자 구축 |
+| [함현정](https://www.linkedin.com/in/hyeonjung-ham-97333721b) | Ham | (주)유케어트론 | - Flutter 개발 2년차<br>- AI 3D estimation 프로젝트 | - Computer vision<br>- 3D modeling<br>- AI agent 개발 |
+| [채병주](https://www.linkedin.com/in/byungjoo-chae-baa661198) | 우니 | 컨텐츠 기반 AI 스타트업 | - Dexter Studios | - RAG, Agent 기술<br>- Diffusion<br>- mlops 구축 |
+| [조수현](https://www.linkedin.com/in/%EC%88%98%ED%98%84-%EC%A1%B0-a1617a335/) | Su | 공공기관 연구직 | - 부산대학교 AI 전공 석사 | - AI Agent 개발<br>- Computer Vision 및 VLM |
+| [김태연](https://www.linkedin.com/in/taeyeon-kim-041287223) | 김탱자🍊 | KTcs | - 국립국어원 Researcher | - Agent, Hybrid Chatbot<br>- Prompt, RAG |
+| [백두산](https://www.linkedin.com/in/dusanbaek/) | 백두산 | 산업공학 석사 재학 | - 개인 iOS 앱 개발 및 런칭 | - Human Factors<br>- Human-AI Interaction<br>- iOS |
+| [신현지](https://www.linkedin.com/in/%ED%98%84%EC%A7%80-%EC%8B%A0-99015a200/) | 조이 | 이직 준비 중 | - 음성/발화 건강 AI 스타트업 | - 맞춤형 Agent 개발 |
+| [김재연](https://www.linkedin.com/in/jaeyeon-kim-7071552a9/) | 재연 | KT | - AI Engineer | - 프롬프트 엔지니어링<br>- RAG, Agent |
+| [이진선](https://www.linkedin.com/in/jin-sun-lee-128b8730a) | 잔산 | 노스스타컨설팅 | - 자바 개발자 | - 자바 개발<br>- AI agent 개발 |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
